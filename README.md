@@ -19,8 +19,8 @@
 <br/>
 
 ##### <div align="center">**ＭＹ ＴＥＣＨ ＳＴＡＣＫ**</div>
-
- >###### <div align="center"><span style="color:blue">ＭＡＩＮ</span></div>
+ <span style="color:blue">*Hello There*</span>
+ >###### <div align="center">ＭＡＩＮ</div>
 
 <div align="center"> 
 
