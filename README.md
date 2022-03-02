@@ -76,3 +76,8 @@
  <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="35" /> 
  <img style="margin: 15px" src="https://icons8.com/vue-static/landings/lunacy-new/lunacy.svg" alt="Lunacy" width="50" /> 
 </div>
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
