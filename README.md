@@ -1,4 +1,4 @@
-
+ <!--START README.md-->
 ### <div align="center">**CHRISBIN THOMAS**</div>
 ##### <div align="center">BANGALORE `<->` KERALA</div>
 ##### <div align="center"> `SOFTWARE DEVELOPEMENT, TESTING, DATA SCIENCE, WEB DEVELOPEMENT, AUDIO MASTERING`</div>
@@ -18,8 +18,7 @@
 
 <br/>
 
-##### <div align="center">**ＭＹ ＴＥＣＨ ＳＴＡＣＫ**</div>
- <span style="color:blue">*Hello There*</span>
+##### <div align="center">**ＭＹ ＴＥＣＨ ＳＴＡＣＫ**</div><br/>
  >###### <div align="center">ＭＡＩＮ</div>
 
 <div align="center"> 
@@ -83,5 +82,5 @@
  
 </div>
 <br/>
-
-&copy; Chrisbin Thomas | _2021 - 22_
+<div align="center">&copy; Chrisbin Thomas | 2021 - 2022</div>
+ <!--END README.md-->
