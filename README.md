@@ -19,7 +19,7 @@
 
 <br/>
 
-##### <div align="center">ＭＹ ＴＥＣＨ ＳＴＡＣＫ</div>
+>##### <div align="center">ＭＹ ＴＥＣＨ ＳＴＡＣＫ</div>
 
  ###### <div align="center">ＭＡＩＮ</div>
 
@@ -40,7 +40,7 @@
  </div>
 
 
-###### <div align="center">ＦＲＯＮＴＥＮＤ</div>
+>###### <div align="center">ＦＲＯＮＴＥＮＤ</div>
 
 <div align="center">   
 
@@ -51,7 +51,7 @@
 
  </div>
 
-###### <div align="center">ＢＡＣＫＥＮＤ</div>
+>###### <div align="center">ＢＡＣＫＥＮＤ</div>
 
 <div align="center">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" />  
@@ -63,7 +63,7 @@
 <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="MySQL" width="50" />   
 </div>
 
-###### <div align="center">ＤＥＶＯＰＳ/ＴＯＯＬＳ</div>
+>###### <div align="center">ＤＥＶＯＰＳ/ＴＯＯＬＳ</div>
 
 <div align="center">  
  <img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="50" />  
