@@ -1,6 +1,6 @@
 ### <div align="center">CHRISBIN THOMAS</div>
 ##### <div align="center">BANGALORE <-> KERALA</div>
-##### <div align="center"> SOFTWARE DEVELOPER, TESTING, DATA SCIENCE, WEB DEVELOPER</div>
+##### <div align="center"> SOFTWARE DEVELOPEMENT, TESTING, DATA SCIENCE, WEB DEVELOPEMENT, AUDIO MASTERING</div>
 
 <br/>
 <div align="center">
