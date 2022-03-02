@@ -58,7 +58,7 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" /> 
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />    
- <img style="margin: 15px" src="https://lh6.googleusercontent.com/3WEidxJZ4BZ5tmPEOSiEb8GMScJj2DakyEPue2-jgC8r5AesHKfR9W3qHJz7L5YB19Ml_8uPMYemNPyArkEKMvregnBrvsG11KDVgB_gyjqriTExgBA42eWj_Lwp0z0DOlTc9Ts" alt="MySQL" width="50" />   
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="MySQL" width="50" />   
 </div>
 
 ###### <div align="center">ＤＥＶＯＰＳ/ＴＯＯＬＳ</div>
