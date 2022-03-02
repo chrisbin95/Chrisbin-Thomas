@@ -46,8 +46,7 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" />
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" width="50" />  
- <img style="margin: 15px" src="https://keygenned.com/wp-content/uploads/2018/09/1429735346_102.png" alt="FL Studio" width="50" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" width="50" />   
 
  </div>
 
@@ -65,11 +64,13 @@
 ###### <div align="center">ＤＥＶＯＰＳ/ＴＯＯＬＳ</div>
 
 <div align="center">  
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="50" />  
+ <img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="50" />  
+<img style="margin: 15px" src="http://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" alt="REDIS" width="50" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" /> 
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" width="50" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/macOS.svg" alt="MacOS" width="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="50" />   
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" />  
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="50" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="50" /> 
+<img style="margin: 15px" src="https://keygenned.com/wp-content/uploads/2018/09/1429735346_102.png" alt="FL Studio" width="50" /> 
 </div>
