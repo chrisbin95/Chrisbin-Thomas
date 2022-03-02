@@ -23,11 +23,12 @@
  <img style="margin: 20px" src="https://pbs.twimg.com/profile_images/826088341099704320/ymCgaIO0_400x400.jpg" alt="Freemarker" width="50" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="50" /> 
-<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="70" /> 
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />  
-<img style="margin: 20px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" height="50" />
+<img style="margin: 20px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="50" />
+ <img style="margin: 20px" src="https://ih1.redbubble.net/image.2089856395.6447/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="GitHub" width="50" />
 
  </div>
 
