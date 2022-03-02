@@ -65,7 +65,7 @@
 
 <div align="center">  
  <img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="50" />  
-<img style="margin: 15px" src="http://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" alt="REDIS" width="50" />  
+<img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" alt="REDIS" width="50" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" /> 
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" width="50" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/macOS.svg" alt="MacOS" width="50" />  
