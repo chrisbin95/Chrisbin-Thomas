@@ -8,10 +8,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
 <a href="https://github.com/chrisbin95" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="padding-left:5px;margin-bottom: 10px;" />
 </a>  
  <a href="https://chrisbin95.github.io/Portfolio/" target="_blank">
-<img src=https://chrisbin95.github.io/Portfolio/images/logo.png alt=portfolio style="width:50px;margin-bottom: 10px;" />
+<img src=https://chrisbin95.github.io/Portfolio/images/logo.png alt=portfolio style="padding-left:5px;width:30px;margin-bottom: 10px;" />
 </a> 
 </div>
 
