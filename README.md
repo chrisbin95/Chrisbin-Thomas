@@ -83,5 +83,5 @@
  
 </div>
 <br/>
- ![CT!](https://github.com/chrisbin95/Chrisbin-Thomas/blob/React/logo%20(1).png?raw=true "CT")
-&copy; Chrisbin Thomas | 2021 - 22
+
+&copy; Chrisbin Thomas | 2021 - 22_
