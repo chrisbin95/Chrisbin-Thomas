@@ -83,3 +83,4 @@
  
 </div>
 <br/>
+![Tux, the Linux mascot](https://chrisbin95.github.io/Portfolio/images/logo.png)
