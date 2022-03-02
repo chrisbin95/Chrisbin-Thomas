@@ -31,7 +31,6 @@
 <img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" /> 
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />  
 <img style="margin: 20px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="50" />
 <img style="margin: 20px" src="https://ih1.redbubble.net/image.2089856395.6447/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="R" width="50" />
 <img style="margin: 20px" src="https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png" alt="Android Studio" width="50" />
@@ -59,6 +58,7 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" /> 
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />    
+ <img style="margin: 15px" src="https://lh6.googleusercontent.com/3WEidxJZ4BZ5tmPEOSiEb8GMScJj2DakyEPue2-jgC8r5AesHKfR9W3qHJz7L5YB19Ml_8uPMYemNPyArkEKMvregnBrvsG11KDVgB_gyjqriTExgBA42eWj_Lwp0z0DOlTc9Ts" alt="MySQL" width="50" />   
 </div>
 
 ###### <div align="center">ＤＥＶＯＰＳ/ＴＯＯＬＳ</div>
