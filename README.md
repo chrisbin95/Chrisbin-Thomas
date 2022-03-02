@@ -20,7 +20,7 @@
 
 ##### <div align="center">**ＭＹ ＴＥＣＨ ＳＴＡＣＫ**</div>
 
- >###### <div align="center">ＭＡＩＮ</div>
+ >###### <div align="center"><span style="color:blue">ＭＡＩＮ</span></div>
 
 <div align="center"> 
 
