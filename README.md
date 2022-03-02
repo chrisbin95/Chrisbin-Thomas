@@ -53,7 +53,7 @@
 
 <div align="center">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="40" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js" width="35" /> 
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" /> 
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
