@@ -16,7 +16,7 @@
 
 ##### <div align="center">ＭＹ ＴＥＣＨ ＳＴＡＣＫ</div>
 
-###### <div align="center">ＭＡＩＮ</div>
+ ###### <div align="center"><marquee>ＭＡＩＮ</marquee></div>
 
 <div align="center"> 
  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="PYTHON" width="50" />  
@@ -28,7 +28,8 @@
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />  
 <img style="margin: 20px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="50" />
- <img style="margin: 20px" src="https://ih1.redbubble.net/image.2089856395.6447/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="GitHub" width="50" />
+<img style="margin: 20px" src="https://ih1.redbubble.net/image.2089856395.6447/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="GitHub" width="50" />
+<img style="margin: 20px" src="https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png" alt="GitHub" width="50" />
 
  </div>
 
