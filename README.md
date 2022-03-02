@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
 </a>  
  <a href="https://chrisbin95.github.io/Portfolio/" target="_blank">
-<img src=https://chrisbin95.github.io/Portfolio/images/logo.png alt=portfolio style="margin-bottom: 10px;" />
+<img src=https://chrisbin95.github.io/Portfolio/images/logo.png alt=portfolio style="width:50;margin-bottom: 10px;" />
 </a> 
 </div>
 
