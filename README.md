@@ -19,10 +19,10 @@
  ###### <div align="center">ＭＡＩＮ</div>
 
 <div align="center"> 
- <marquee>Languages</marquee>
- <img style="margin: 20px" src="https://cdn.freebiesupply.com/logos/large/2x/spyder-logo-png-transparent.png" alt="SPYDER" width="50" /> 
- <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="PYTHON" width="50" />  
- <img style="margin: 20px" src="https://pbs.twimg.com/profile_images/826088341099704320/ymCgaIO0_400x400.jpg" alt="Freemarker" width="50" /> 
+
+<img style="margin: 20px" src="https://cdn.freebiesupply.com/logos/large/2x/spyder-logo-png-transparent.png" alt="SPYDER" width="50" /> 
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="PYTHON" width="50" />  
+<img style="margin: 20px" src="https://pbs.twimg.com/profile_images/826088341099704320/ymCgaIO0_400x400.jpg" alt="Freemarker" width="50" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="50" /> 
 <img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50" /> 
@@ -40,32 +40,32 @@
 
 <div align="center">   
 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" />
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" height="35" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" />
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" width="50" />  
 
  </div>
 
 ###### <div align="center">ＢＡＣＫＥＮＤ</div>
 
 <div align="center">  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="35" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="50" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js" width="35" /> 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /> 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" />
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" />    
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" /> 
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />    
 </div>
 
 ###### <div align="center">ＤＥＶＯＰＳ/ＴＯＯＬＳ</div>
 
 <div align="center">  
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="35" />  
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" height="35" /> 
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height="35" />  
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/macOS.svg" alt="MacOS" width="35" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />   
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" height="35" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="50" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" /> 
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" width="50" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/macOS.svg" alt="MacOS" width="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="50" />   
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="50" />  
 </div>
