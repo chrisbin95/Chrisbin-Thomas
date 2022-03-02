@@ -73,6 +73,6 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="50" /> 
 <img style="margin: 15px" src="https://keygenned.com/wp-content/uploads/2018/09/1429735346_102.png" alt="FL Studio" width="50" /> 
- <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="25" /> 
+ <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="35" /> 
  <img style="margin: 15px" src="https://icons8.com/vue-static/landings/lunacy-new/lunacy.svg" alt="Lunacy" width="50" /> 
 </div>
