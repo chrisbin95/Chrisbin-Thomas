@@ -83,4 +83,4 @@
  
 </div>
 <br/>
-![&copy; Chrisbin Thomas](../logo(1).png)
+![&copy; Chrisbin Thomas](logo(1).png)
